@@ -1,0 +1,15 @@
+item {
+    name: "blue-sample",
+    id: 1,
+    display_name: "blue-sample"
+}
+item {
+    name: "red-sample",
+    id: 2,
+    display_name: "red-sample"
+}
+item {
+    name: "yellow-sample",
+    id: 3,
+    display_name: "yellow-sample"
+}
